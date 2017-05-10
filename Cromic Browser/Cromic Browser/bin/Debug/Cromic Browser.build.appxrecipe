@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ADMINRG-T5E01H0</Machine>
+    <WindowsUser>ironman</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6bf0ac24-02d4-497e-bc07-c9ebc4460608</PackageIdentityName>
+    <PackageIdentityPublisher>CN=ADN</PackageIdentityPublisher>
+    <IntermediateOutputPath>F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Cromic Browser.exe">
+      <PackagePath>Cromic Browser.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\AddFriends.png">
+      <PackagePath>Assets\AddFriends.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\AddOns.png">
+      <PackagePath>Assets\AddOns.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\arrow2.png">
+      <PackagePath>Assets\arrow2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\arrow3.png">
+      <PackagePath>Assets\arrow3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\arrowCurved.png">
+      <PackagePath>Assets\arrowCurved.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\Back00.png">
+      <PackagePath>Assets\Back00.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\battery.png">
+      <PackagePath>Assets\battery.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\bookmark.png">
+      <PackagePath>Assets\bookmark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\camera.png">
+      <PackagePath>Assets\camera.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\delete.png">
+      <PackagePath>Assets\delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\downloads.png">
+      <PackagePath>Assets\downloads.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\emoticons.png">
+      <PackagePath>Assets\emoticons.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\exit.png">
+      <PackagePath>Assets\exit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\facebook.png">
+      <PackagePath>Assets\facebook.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\fitToScreen.png">
+      <PackagePath>Assets\fitToScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\friends.png">
+      <PackagePath>Assets\friends.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\fullscreen.png">
+      <PackagePath>Assets\fullscreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\help.png">
+      <PackagePath>Assets\help.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\history.png">
+      <PackagePath>Assets\history.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\home.png">
+      <PackagePath>Assets\home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\like.png">
+      <PackagePath>Assets\like.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\HubBackground.theme-dark.png">
+      <PackagePath>Assets\HubBackground.theme-dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\HubBackground.theme-light.png">
+      <PackagePath>Assets\HubBackground.theme-light.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\MenuMore.png">
+      <PackagePath>Assets\MenuMore.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\MenuMore2.png">
+      <PackagePath>Assets\MenuMore2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\MenuMore3.png">
+      <PackagePath>Assets\MenuMore3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\message.png">
+      <PackagePath>Assets\message.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\myVideos.png">
+      <PackagePath>Assets\myVideos.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\NightMode.png">
+      <PackagePath>Assets\NightMode.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\Notification.png">
+      <PackagePath>Assets\Notification.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\Notification2.png">
+      <PackagePath>Assets\Notification2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\phoneCall.png">
+      <PackagePath>Assets\phoneCall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\phoneCall2.png">
+      <PackagePath>Assets\phoneCall2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\pictureLogo.png">
+      <PackagePath>Assets\pictureLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\reload.png">
+      <PackagePath>Assets\reload.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\search.png">
+      <PackagePath>Assets\search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\setting.png">
+      <PackagePath>Assets\setting.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\setting2.png">
+      <PackagePath>Assets\setting2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\share.png">
+      <PackagePath>Assets\share.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\silentVibration.png">
+      <PackagePath>Assets\silentVibration.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\tabBackground.png">
+      <PackagePath>Assets\tabBackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\tabs.png">
+      <PackagePath>Assets\tabs.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\theme.png">
+      <PackagePath>Assets\theme.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\wallpaper1.png">
+      <PackagePath>Assets\wallpaper1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\wallpaper2.png">
+      <PackagePath>Assets\wallpaper2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\wallpaper3.png">
+      <PackagePath>Assets\wallpaper3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\wallpaper4.png">
+      <PackagePath>Assets\wallpaper4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\wallpaper5.png">
+      <PackagePath>Assets\wallpaper5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\defaultimg\login-background.jpeg">
+      <PackagePath>defaultimg\login-background.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\ToastNotif.xml">
+      <PackagePath>ToastNotif.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\WebViewHomePage.html">
+      <PackagePath>WebViewHomePage.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Cromic Browser.xr.xml">
+      <PackagePath>Cromic Browser.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Tab1.xbf">
+      <PackagePath>Tab1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Tab2.xbf">
+      <PackagePath>Tab2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

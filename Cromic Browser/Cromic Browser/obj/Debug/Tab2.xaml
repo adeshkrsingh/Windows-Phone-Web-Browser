@@ -1,0 +1,298 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Cromic_Browser"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:System="using:System"
+    x:Class="Cromic_Browser.Tab2"
+    mc:Ignorable="d"
+    Background="SkyBlue">
+    <Page.Resources>
+        <MenuFlyout x:Key="FlyoutBase1" >
+            <MenuFlyoutItem x:Name="adesh" Text="First Menu Flyout item" />
+            <MenuFlyoutItem x:Name="singh" Text="Second Menu Flyout Item" />
+        </MenuFlyout>
+
+    </Page.Resources>
+<Grid>
+
+<!-- defining all three division-->
+    <Grid.RowDefinitions>
+            <RowDefinition Height="48.333"/>
+            <RowDefinition Height="533.334"/>
+            <RowDefinition Height="58.333"/>
+    </Grid.RowDefinitions>
+        
+<!-- All 6 web views -->        
+        <WebView x:Name="webView1" DefaultBackgroundColor="Black" Opacity="1" HorizontalAlignment="Left" Height="534" Margin="0,48,0,0" VerticalAlignment="Top" Width="400" Grid.RowSpan="3"/>
+        <WebView x:Name="webView2" Opacity="1" HorizontalAlignment="Left" Height="534" Margin="0,48,0,0" VerticalAlignment="Top" Width="400" Grid.RowSpan="3"/>
+        <WebView x:Name="webView3" Opacity="0" HorizontalAlignment="Left" Height="534" Margin="0,48,0,0" VerticalAlignment="Top" Width="400" Grid.RowSpan="3"/>
+        <WebView x:Name="webView4" Opacity="0" HorizontalAlignment="Left" Height="534" Margin="0,48,0,0" VerticalAlignment="Top" Width="400" Grid.RowSpan="3"/>
+        <WebView x:Name="webView5" Opacity="0" HorizontalAlignment="Left" Height="534" Margin="0,48,0,0" VerticalAlignment="Top" Width="400" Grid.RowSpan="3"/>
+        <WebView x:Name="webView6" Opacity="0" HorizontalAlignment="Left" Height="534" Margin="0,48,0,0" VerticalAlignment="Top" Width="400" Grid.RowSpan="3" AllowDrop="True"/>
+
+        <Rectangle x:Name="rectangularBlock" Opacity="0"  HorizontalAlignment="Left" Height="534" Margin="2,48,-2,0" Stroke="Black" VerticalAlignment="Top" Width="400" Grid.RowSpan="3">
+            <Rectangle.Fill>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/wallpaper5.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+    
+<!-- tab generation buttons -->
+        <Button x:ConnectionId='1' x:Name="TabNewtab" Opacity="1"                         Content="Add New Tab" HorizontalAlignment="Left" Margin="-450,-9.333,0,0" VerticalAlignment="Top" Height="80" Width="397" BorderThickness="0,2.5,0,0" Grid.Row="1">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/tabBackground.png" Opacity="0.5"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='2' x:Name="Tab6" Opacity="1"                    Content="Tab - 6" HorizontalAlignment="Left" Margin="-450,65.667,0,0" VerticalAlignment="Top" Height="80" Width="343" Grid.Row="1" BorderThickness="0,2.5,0,0">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/tabBackground.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='3' x:Name="Tab6close" Background="Red" Opacity="1"                         Content="X" HorizontalAlignment="Left" Margin="-115,65.667,0,0" VerticalAlignment="Top" Height="80" Width="62" Grid.Row="1" MinWidth="10" BorderThickness="2.5,2.5,0,0"/>
+        <Button x:ConnectionId='4' x:Name="Tab5" Opacity="1"                    Content="Tab - 5" HorizontalAlignment="Left" Margin="-450,138.667,0,0" VerticalAlignment="Top" Height="80" Width="343" Grid.Row="1" BorderThickness="0,2.5,0,0">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/tabBackground.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='5' x:Name="Tab5close" Background="red" Opacity="1"                         Content="X" HorizontalAlignment="Left" Margin="-115,138.667,0,0" VerticalAlignment="Top" Height="80" Width="62" Grid.Row="1" MinWidth="10" BorderThickness="2.5,2.5,0,0"/>
+        <Button x:ConnectionId='6' x:Name="Tab4" Opacity="1"                    Content="Tab - 4" HorizontalAlignment="Left" Margin="-450,210.667,0,0" VerticalAlignment="Top" Height="80" Width="343" Grid.Row="1" BorderThickness="0,2.5,0,0">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/tabBackground.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='7' x:Name="Tab4close" Background="Red" Opacity="1"                         Content="X" HorizontalAlignment="Left" Margin="-115,210.667,0,0" VerticalAlignment="Top" Height="80" Width="63" Grid.Row="1" MinWidth="10" BorderThickness="2.5,2.5,0,0"/>
+        <Button x:ConnectionId='8' x:Name="Tab3" Opacity="1"                    Content="Tab - 3" HorizontalAlignment="Left" Margin="-450,290.667,0,0" VerticalAlignment="Top" Height="80" Width="343" Grid.Row="1" BorderThickness="0,2.5,0,0">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/tabBackground.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='9' x:Name="Tab3close" Background="Red" Opacity="1"                         Content="X" HorizontalAlignment="Left" Margin="-115,290.667,0,0" VerticalAlignment="Top" Height="80" Width="62" Grid.Row="1" MinWidth="10" BorderThickness="2.5,2.5,0,0"/>
+        <Button x:ConnectionId='10' x:Name="Tab02"    Opacity="1"                    Content="Tab - 2" HorizontalAlignment="Left" Margin="-450,370.667,0,0" VerticalAlignment="Top" Height="81" Width="343" Grid.Row="1" BorderThickness="0,2.5,0,0">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/tabBackground.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='11' x:Name="Tab02close" Background="Red" Opacity="1"                          Content="X" HorizontalAlignment="Left" Margin="-115,370.667,0,81.667" VerticalAlignment="Stretch" Width="63" Grid.Row="1" MinWidth="10" BorderThickness="2.5,2.5,0,0"/>
+        <Button x:ConnectionId='12' x:Name="Tab1" Opacity="1"                    Content="Tab - 1" HorizontalAlignment="Left" Margin="-450,450.667,0,0" VerticalAlignment="Top" Height="80" Width="343" RenderTransformOrigin="1,0" Canvas.ZIndex="10" Grid.Row="1" BorderThickness="0,2.5,0,0">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/tabBackground.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='13' x:Name="Tab1close" Background="Red" Opacity="1"                    Content="X" HorizontalAlignment="Left" Margin="-115,450.667,0,0" VerticalAlignment="Top" Height="81" Width="62" RenderTransformOrigin="1,0" Canvas.ZIndex="10" Grid.Row="1" MinWidth="10" BorderThickness="2.5,2.5,0,0"/>
+        <Rectangle Fill="#FF4141DC" HorizontalAlignment="Left" Height="58" Margin="0,0.333,0,0" Grid.Row="2" Stroke="Black" VerticalAlignment="Top" Width="400"/>
+        <Button x:ConnectionId='14' x:Name="bBackward"                         Content="" HorizontalAlignment="Left" Margin="0,523.667,0,-9" Grid.Row="1" VerticalAlignment="Top" Width="68" MinWidth="6" Height="77" Grid.RowSpan="2" BorderThickness="0,0,2.5,0">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/arrow3.png"/>
+            </Button.Background>
+        </Button>
+    
+<!--web control buttons -->        
+        <Button x:ConnectionId='15' x:Name="bForward"                        Content="" HorizontalAlignment="Left" Margin="68,523.667,0,-9" Grid.Row="1" VerticalAlignment="Top" Width="67" MinWidth="6" Height="77" Grid.RowSpan="2" BorderThickness="0" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <CompositeTransform ScaleX="-1"/>
+            </Button.RenderTransform>
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/arrow3.png">
+                    <ImageBrush.RelativeTransform>
+                        <CompositeTransform/>
+                    </ImageBrush.RelativeTransform>
+                </ImageBrush>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='16' x:Name="bHome"                     Content="" HorizontalAlignment="Left" Margin="332,523.667,0,-9" Grid.Row="1" VerticalAlignment="Top" Width="68" MinWidth="6" Height="77" Grid.RowSpan="2" BorderThickness="2.5,0,0,0" ClickMode="Hover" IsHoldingEnabled="False">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/home.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='17' x:Name="bTabsList"                        Content="" HorizontalAlignment="Left" Margin="264,523.667,0,-9" Grid.Row="1" VerticalAlignment="Top" Width="68" MinWidth="6" Height="77" Grid.RowSpan="2" BorderThickness="0">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/tabs.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='18' x:Name="bMenu"                     Content="" HorizontalAlignment="Left" Margin="136,523.667,0,-9" Grid.Row="1" VerticalAlignment="Top" Width="128" MinWidth="6" Height="77" Grid.RowSpan="2" BorderThickness="2.5,0">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/MenuMore3.png"/>
+            </Button.Background>
+        </Button>
+    
+<!-- addressbar and related items -->        
+        <Button x:ConnectionId='19' x:Name="bReload"                       Content="" HorizontalAlignment="Left" Margin="332,-10,0,0" VerticalAlignment="Top" Height="68" Grid.RowSpan="2" Width="68" BorderThickness="2.5,0,0,0" MinWidth="10" Opacity="0.8" TabNavigation="Cycle" ClickMode="Hover">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/reload.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='20' x:Name="bGo"                   Opacity="1" Background="Blue" Content="Go" HorizontalAlignment="Left" Margin="417,-10,-84,-9.667" VerticalAlignment="Top" Width="67" MinWidth="10" MinHeight="10" Height="68" ClickMode="Hover" IsEnabled="True"/>
+        <TextBox x:ConnectionId='21' x:Name="addressBar"                                                                 Margin="0,0,67,0" TextWrapping="Wrap" Text="Address" VerticalAlignment="Top" Height="49" Grid.RowSpan="2"/>
+        <TextBox x:ConnectionId='22' x:Name="bSearch"                                                           Margin="212,0,68,0" TextWrapping="Wrap" Text="Search" VerticalAlignment="Top" Height="49" Grid.RowSpan="2"/>
+        <Button x:ConnectionId='23' x:Name="bGo_Search"                          Opacity="1" HorizontalAlignment="Left" Margin="490,-10,-157,0" VerticalAlignment="Top" Width="67" MinWidth="10" MinHeight="10" Height="68" ClickMode="Hover" IsEnabled="True" Grid.RowSpan="2">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/search.png"/>
+            </Button.Background>
+        </Button>
+    
+<!-- Progress bar TOP -->        
+        <ProgressBar x:Name="StatusBarProgressBar" Background="Green" Foreground="Red" HorizontalAlignment="Left" Height="28" Margin="0,-28,0,0" VerticalAlignment="Top" Width="400"/>
+        <TextBlock x:ConnectionId='24' x:Name="statusTextBlock" FontSize="16" FontWeight="Bold" Foreground="Black" Opacity="1" TextAlignment="Center" HorizontalAlignment="Left" Margin="42,-24,0,0" TextWrapping="Wrap" Text="Status Bar" VerticalAlignment="Top" Height="19" Width="270"                                                    />
+
+<!-- when tab open clicks -->
+        <Grid Margin="420,339.667,-420,3.667" Grid.Row="1">
+            <Viewbox x:Name="ViewBoxSetting" Margin="-1305,0,1304,0" CompositeMode="SourceOver">
+                <Viewbox.Transitions>
+                    <TransitionCollection>
+                        <EdgeUIThemeTransition Edge="Bottom"/>
+                    </TransitionCollection>
+                </Viewbox.Transitions>
+                <Grid Height="190" Width="400">
+                    <Rectangle Fill="Black" HorizontalAlignment="Left" Height="260" Stroke="Black" VerticalAlignment="Top" Width="400" Margin="0,0,0,-70"/>
+                    <Button Content="" HorizontalAlignment="Left" Margin="25,5,0,0" VerticalAlignment="Top" MinWidth="5" MinHeight="5" Width="60" Height="65">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Assets/bookmark.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='35' x:Name="bDownloadMenu"                             Content="" HorizontalAlignment="Left" Margin="25,100,0,0" VerticalAlignment="Top" MinWidth="5" MinHeight="5" Width="60" Height="64">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Assets/downloads.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='36' x:Name="bHistory"                        Content="" HorizontalAlignment="Left" Margin="110,5,0,0" VerticalAlignment="Top" MinWidth="5" MinHeight="5" Width="60" Height="65">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Assets/history.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='37' x:Name="bNightDayMode"                             Content="" HorizontalAlignment="Left" Margin="115,100,0,0" VerticalAlignment="Top" MinWidth="5" MinHeight="5" Width="60" Height="64">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Assets/NightMode.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='38' x:Name="bSetting" Content="" HorizontalAlignment="Left" Margin="195,5,0,0" VerticalAlignment="Top" MinWidth="5" MinHeight="5" Width="60" Height="65"                       >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Assets/setting.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='39'                      FontStretch="UltraExpanded" Foreground="SkyBlue" Content="V" HorizontalAlignment="Left" Margin="165,190,0,-64" VerticalAlignment="Top" MinWidth="5" MinHeight="5" Width="60" Height="64" RenderTransformOrigin="-0.083,1.797" BorderThickness="0"/>
+                    <Button x:ConnectionId='40' x:Name="bSettingMyVideos" Content="" HorizontalAlignment="Left" Margin="290,5,0,0" VerticalAlignment="Top" MinWidth="5" MinHeight="5" Width="60" Height="65"                               >
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Assets/myVideos.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:ConnectionId='41'                    Content="" HorizontalAlignment="Left" Margin="290,100,0,0" VerticalAlignment="Top" MinWidth="5" MinHeight="5" Width="60" Height="64">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Assets/exit.png"/>
+                        </Button.Background>
+                    </Button>
+                    <TextBlock HorizontalAlignment="Left" Margin="27,70,0,0" TextWrapping="Wrap" Text="Bookmarks" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="123,72,0,0" TextWrapping="Wrap" Text="History" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="209,72,0,0" TextWrapping="Wrap" Text="Setting" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="295,72,0,0" TextWrapping="Wrap" Text="MyVideos" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="27,167,0,0" TextWrapping="Wrap" Text="Downloads" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="tbNightDayMode" HorizontalAlignment="Left" Margin="116,167,0,0" TextWrapping="Wrap" Text="Night Mode" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="205,165,0,0" TextWrapping="Wrap" Text="Comming" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="312,165,0,0" TextWrapping="Wrap" Text="Exit" VerticalAlignment="Top"/>
+                    <Button Content="" HorizontalAlignment="Left" Margin="196,100,0,0" VerticalAlignment="Top" MinWidth="5" MinHeight="5" Width="60" Height="64">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="Assets/exit.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Rectangle Opacity="0.5" HorizontalAlignment="Left" Height="390" Stroke="Black" VerticalAlignment="Top" Width="410" Margin="-5,-390,-5,0" RenderTransformOrigin="0.5,0.5">
+                        <Rectangle.Fill>
+                            <ImageBrush Stretch="Fill" ImageSource="Assets/wallpaper2.png"/>
+                        </Rectangle.Fill>
+                        <Rectangle.RenderTransform>
+                            <CompositeTransform ScaleY="-1"/>
+                        </Rectangle.RenderTransform>
+                    </Rectangle>
+
+
+
+                </Grid>
+            </Viewbox>
+        </Grid>
+
+<!-- my video box -->
+        <Viewbox x:Name="ViewBoxMyVideos"  Margin="-450,-667,450,127.333">
+            <Viewbox.Transitions>
+                <TransitionCollection>
+                    <AddDeleteThemeTransition/>
+                    <ContentThemeTransition HorizontalOffset="0" VerticalOffset="0"/>
+                </TransitionCollection>
+            </Viewbox.Transitions>
+            <Grid Height="588" Width="400">
+                <TextBlock FontSize="24" FontWeight="Bold" HorizontalAlignment="Left" Margin="175,20,0,0" TextWrapping="Wrap" Text="My Videos" VerticalAlignment="Top" Width="155"/>
+                <Rectangle x:Name="RecMyVideos" HorizontalAlignment="Left" Height="655" Stroke="Black" VerticalAlignment="Top" Width="425" Margin="-15,0,-10,-67">
+                    <Rectangle.Fill>
+                        <ImageBrush Stretch="Fill" ImageSource="Assets/wallpaper3.png"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+             <Button x:ConnectionId='34' x:Name="bMyVideosBack"                             Content="Back" HorizontalAlignment="Left" Margin="11,7,0,0" VerticalAlignment="Top"/>
+        </Grid>
+        </Viewbox>
+    
+<!-- Setting box-->        
+        <Viewbox x:Name="ViewBoxSettingRec" Margin="-882,-667,882,127.333">
+            <Viewbox.Transitions>
+                <TransitionCollection>
+                    <ReorderThemeTransition/>
+                    <ContentThemeTransition HorizontalOffset="0"/>
+                </TransitionCollection>
+            </Viewbox.Transitions>
+            <Grid Height="588" Width="400">
+                <Rectangle x:Name="RecSetting" Fill="Black" Height="655" Stroke="Black" Width="425" Margin="-13,0,-12,-67"/>
+                <Button x:ConnectionId='28' x:Name="bSettingMenuBack" Content="Back" HorizontalAlignment="Left" Margin="8,6,0,0" VerticalAlignment="Top"                               />
+                <TextBlock FontSize="24" FontWeight="Bold" HorizontalAlignment="Left" Margin="156,19,0,0" TextWrapping="Wrap" Text="Setting" VerticalAlignment="Top" Height="40" Width="95"/>
+                <ToggleSwitch x:ConnectionId='29' x:Name="bSetNightMode"                               Header="Night Mode" HorizontalAlignment="Left" Margin="22,65,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.462" Width="349" Height="65"/>
+                <Button x:ConnectionId='30' x:Name="bSetAppLockerPassword" Content="App Locker Password" HorizontalAlignment="Left" Margin="17,513,0,0" VerticalAlignment="Top" Width="350"                                    />
+                <ToggleSwitch x:Name="bSetAutoPager" Header="AutoPager" HorizontalAlignment="Left" Margin="22,135,0,0" VerticalAlignment="Top" Width="349"/>
+                <ToggleSwitch x:ConnectionId='31' x:Name="bIncoginito" IsOn="False" Header="Incoginito"                               HorizontalAlignment="Left" Margin="22,205,0,0" VerticalAlignment="Top" Width="349"/>
+                <ToggleSwitch x:Name="bSetSwipe" IsEnabled="False" Header="Forward Backward Swipe" HorizontalAlignment="Left" Margin="22,270,0,0" VerticalAlignment="Top" Width="349"/>
+                <ToggleSwitch x:Name="bSetPassAutoSave" Header="Passward Auto Save" HorizontalAlignment="Left" Margin="22,336,0,0" VerticalAlignment="Top" Width="349"/>
+                <Button x:ConnectionId='32' x:Name="bSetClearHistory" Content="Clear History &amp; Other Records" HorizontalAlignment="Left" Margin="17,405,0,0" VerticalAlignment="Top" Width="350"                               />
+                <Button x:ConnectionId='33' x:Name="bSetMoreSetting" Content="Font &amp; Layout" HorizontalAlignment="Left" Margin="17,459,0,0" VerticalAlignment="Top" Width="350"                              />
+          </Grid>
+         </Viewbox>
+        
+<!--History show box all tabs-->        
+        <Viewbox x:Name="ViewBoxHistory" Margin="-1314,-667,1314,127.333">
+            <Viewbox.Transitions>
+                <TransitionCollection>
+                    <AddDeleteThemeTransition/>
+                    <EdgeUIThemeTransition Edge="Right"/>
+                </TransitionCollection>
+            </Viewbox.Transitions>
+            <Grid Height="533" Width="400">
+                <Rectangle x:Name="RecHistory" HorizontalAlignment="Left" Height="649" Stroke="Black" VerticalAlignment="Top" Width="400" Margin="0,-21,0,-95">
+                    <Rectangle.Fill>
+                        <ImageBrush Stretch="Fill" ImageSource="Assets/wallpaper1.png"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+                <TextBlock FontSize="24" Foreground="Black" TextAlignment="Center" HorizontalAlignment="Left" Margin="94,-10,0,0" TextWrapping="Wrap" Text="History" VerticalAlignment="Top" Height="33" Width="200"/>
+                <ListBox x:Name="ListBoxHistory" FontSize="16"  HorizontalAlignment="Left" Height="512" Margin="14,34,0,-13" VerticalAlignment="Top" Width="375"/>
+                <Button x:ConnectionId='27' x:Name="bViewBoxHistoryHide" Content="Back"                                   Margin="15,-26,0,0" Height="64" Width="99" MinWidth="5" MinHeight="5" VerticalAlignment="Top"/>
+           </Grid>
+        </Viewbox>
+    
+<!-- Bookmark box -->        
+        <Viewbox Margin="-1738,-667,1738,60.333">
+            <Grid Height="655" Width="400">
+
+                <Rectangle x:Name="RecBookmarks" HorizontalAlignment="Left" Height="655" Stroke="Black" VerticalAlignment="Top" Width="400">
+                    <Rectangle.Fill>
+                        <ImageBrush Stretch="Fill" ImageSource="Assets/wallpaper3.png"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+                <Button x:Name="button" Content="Back" HorizontalAlignment="Left" Margin="0,6,0,0" VerticalAlignment="Top" Height="68" Width="138"/>
+            </Grid>
+        </Viewbox>
+
+<!-- Download Box -->        
+        <Viewbox x:Name="ViewBoxDownload" Margin="-1350,45,1350,3.667" Grid.RowSpan="2">
+            <Grid Height="533" Width="400">
+                <Rectangle x:Name="RecDownload" Fill="BurlyWood" HorizontalAlignment="Left" Height="650" Stroke="Black" VerticalAlignment="Top" Width="400" Margin="0,-47,0,-70"/>
+                <Button x:ConnectionId='25' x:Name="bDownloadsBack"                              Content="back" HorizontalAlignment="Left" Margin="10,-34,0,0" VerticalAlignment="Top"/>
+                <TextBlock x:ConnectionId='26' FontSize="24" FontWeight="Bold" HorizontalAlignment="Left" Margin="134,-22,0,0" TextWrapping="Wrap" Text="Downloads" VerticalAlignment="Top" Height="30" Width="150" RenderTransformOrigin="0.493,0.5"                                              />
+             </Grid>
+        </Viewbox>
+</Grid>
+
+</Page>
+

@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="g:\vstudio projects\projects\cromic browser\packages\htmlagilitypack.1.4.9.5\lib\portable-net45+netcore45+wpa81+wp8+monoandroid+monotouch\htmlagilitypack.dll" HashGuid="2dc00e27-e5d5-1bb2-04c2-5e055a892902" />
+    <ReferenceAssembly PathName="g:\vstudio projects\projects\cromic browser\packages\microsoft.data.edm.5.7.0\lib\portable-net45+wp8+win8+wpa\microsoft.data.edm.dll" HashGuid="0286700a-130b-1631-97bb-2a29c945c748" />
+    <ReferenceAssembly PathName="g:\vstudio projects\projects\cromic browser\packages\microsoft.data.odata.5.7.0\lib\portable-net45+wp8+win8+wpa\microsoft.data.odata.dll" HashGuid="07353d93-9026-3dda-e873-db75a8d46298" />
+    <ReferenceAssembly PathName="g:\vstudio projects\projects\cromic browser\packages\windowsazure.storage.8.0.0\lib\wpa\microsoft.windowsazure.storage.dll" HashGuid="8d57263c-cf76-bb7d-e53f-0d547dba4187" />
+    <ReferenceAssembly PathName="g:\vstudio projects\projects\cromic browser\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\reference assemblies\microsoft\framework\v3.5\system.componentmodel.dataannotations.dll" HashGuid="fe4afa5f-74d6-dfa6-9ff3-0729afeccea1" />
+    <ReferenceAssembly PathName="g:\vstudio projects\projects\cromic browser\packages\system.spatial.5.7.0\lib\portable-net45+wp8+win8+wpa\system.spatial.dll" HashGuid="ad64f91a-ac26-7da5-98ef-6ac358d330f9" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

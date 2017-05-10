@@ -1,0 +1,182 @@
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\bin\Debug\App.xbf
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\bin\Debug\HubPage.xbf
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\bin\Debug\ItemPage.xbf
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\bin\Debug\SectionPage.xbf
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\bin\Debug\Cromic Browser.xr.xml
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\bin\Debug\Cromic Browser.exe
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\bin\Debug\Cromic Browser.pdb
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\bin\Debug\resources.pri
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\bin\Debug\AppxManifest.xml
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\bin\Debug\Cromic Browser.build.appxrecipe
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.g.i.cs
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.g.cs
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.g.i.cs
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.g.cs
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.g.i.cs
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.g.cs
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.g.i.cs
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.g.cs
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.xaml
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.xaml
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.xaml
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.xaml
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.xbf
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.xbf
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.xbf
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.xbf
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\Cromic Browser.exe
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\Cromic Browser.pdb
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\priconfig.xml
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\priconfig.xml.intermediate
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\layout.resfiles
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\layout.resfiles.intermediate
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\resources.resfiles
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\resources.resfiles.intermediate
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\pri.resfiles
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\pri.resfiles.intermediate
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\qualifiers.txt
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ADN\Documents\Visual Studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\ProjectArchitectures.txt
+C:\Users\ADN\documents\visual studio 2013\Projects\Cromic Browser\Cromic Browser\bin\Debug\Tab1.xbf
+C:\Users\ADN\documents\visual studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.g.i.cs
+C:\Users\ADN\documents\visual studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.g.cs
+C:\Users\ADN\documents\visual studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.xaml
+C:\Users\ADN\documents\visual studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.xbf
+C:\Users\ADN\documents\visual studio 2013\Projects\Cromic Browser\Cromic Browser\bin\Debug\Tab2.xbf
+C:\Users\ADN\documents\visual studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.g.i.cs
+C:\Users\ADN\documents\visual studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.g.cs
+C:\Users\ADN\documents\visual studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.xaml
+C:\Users\ADN\documents\visual studio 2013\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.xbf
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\App.xbf
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\HubPage.xbf
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\ItemPage.xbf
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\SectionPage.xbf
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Tab1.xbf
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Tab2.xbf
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Cromic Browser.xr.xml
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Cromic Browser.exe
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Cromic Browser.pdb
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\resources.pri
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\AppxManifest.xml
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Cromic Browser.build.appxrecipe
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.g.i.cs
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.g.cs
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.g.i.cs
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.g.cs
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.g.i.cs
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.g.cs
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.g.i.cs
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.g.cs
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.g.i.cs
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.g.cs
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.g.i.cs
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.g.cs
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\XamlTypeInfo.g.cs
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.xaml
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.xaml
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.xaml
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.xaml
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.xaml
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.xaml
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.xbf
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.xbf
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.xbf
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.xbf
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.xbf
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.xbf
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\XamlSaveStateFile.xml
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Cromic Browser.exe
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Cromic Browser.pdb
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\priconfig.xml
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\priconfig.xml.intermediate
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\layout.resfiles
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\layout.resfiles.intermediate
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\resources.resfiles
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\resources.resfiles.intermediate
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\pri.resfiles
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\pri.resfiles.intermediate
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\qualifiers.txt
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\qualifiers.txt.intermediate
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\ProjectArchitectures.txt
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\App.xbf
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\HubPage.xbf
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\ItemPage.xbf
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\SectionPage.xbf
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Tab1.xbf
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Tab2.xbf
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Cromic Browser.xr.xml
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Cromic Browser.exe
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Cromic Browser.pdb
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\resources.pri
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\AppxManifest.xml
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\bin\Debug\Cromic Browser.build.appxrecipe
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.g.i.cs
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.g.cs
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.g.i.cs
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.g.cs
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.g.i.cs
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.g.cs
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.g.i.cs
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.g.cs
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.g.i.cs
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.g.cs
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.g.i.cs
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.g.cs
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\XamlTypeInfo.g.cs
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.xaml
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.xaml
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.xaml
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.xaml
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.xaml
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.xaml
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.xbf
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.xbf
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.xbf
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.xbf
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.xbf
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.xbf
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\XamlSaveStateFile.xml
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Cromic Browser.exe
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Cromic Browser.pdb
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\priconfig.xml
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\priconfig.xml.intermediate
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\layout.resfiles
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\layout.resfiles.intermediate
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\resources.resfiles
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\resources.resfiles.intermediate
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\pri.resfiles
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\pri.resfiles.intermediate
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\qualifiers.txt
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\qualifiers.txt.intermediate
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\ProjectArchitectures.txt
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.g.i.cs
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.g.cs
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.g.i.cs
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.g.cs
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.g.i.cs
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.g.cs
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.g.i.cs
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.g.cs
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.g.i.cs
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.g.cs
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.g.i.cs
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.g.cs
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\XamlTypeInfo.g.cs
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.xaml
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.xaml
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.xaml
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.xaml
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.xaml
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.xaml
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\App.xbf
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\HubPage.xbf
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\ItemPage.xbf
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\SectionPage.xbf
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab1.xbf
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\Tab2.xbf
+G:\vstudio projects\Projects\Cromic Browser\Cromic Browser\obj\Debug\XamlSaveStateFile.xml
